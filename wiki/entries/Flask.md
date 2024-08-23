@@ -1,0 +1,1 @@
+Flask is a popular web framework which is widely use to design a web application with python.
